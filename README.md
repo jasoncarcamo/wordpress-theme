@@ -1,4 +1,4 @@
 # wordpress-theme basics
 
-![Wordpress them example](images/wordpress-theme-exampl.png)
-<img src="./wordpress-theme-example" alt="Wordpress theme example."/>
+![Wordpress them example](/wordpress-theme-example.png)
+<img src="/wordpress-theme-example" alt="Wordpress theme example."/>
